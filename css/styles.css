@@ -1,15 +1,15 @@
 h1{
-    color: cadetblue;
+    color: darkgrey;
     text-align: center;
 }
 h2{
     text-align: center;
     font-style: italic;
-    color: coral;
+    color: darkslateblue;
 }
 p{
-    color: gray;
+    color: bisque
 }
 body{
-    background-color: skyblue;
+    background-color: seagreen;
 }
